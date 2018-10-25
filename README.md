@@ -1,1 +1,1 @@
-# face_racognition
+# face_recognition_folder
